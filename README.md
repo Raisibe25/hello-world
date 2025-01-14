@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing GitHub Flow
+Who am I you ask? Sometimes even I don't know because I am hard to define. You can't fit me in a box because growth is a natural part of me, because my opinions change, because I refuse to be fixed in my ways. There are however things that are integral to my being, three core values which are honesty, integrity and respect. I live by these values and to live with me peacefully is to also live by these values or to at the very least recognize and have respect for these values. I refuse to remain stagnant. If I ever reach a point where I am comfortable in my knowldge so much so that I am unwilling to learn then I will be living my greatest fear.
